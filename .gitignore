@@ -1,9 +1,4 @@
 node_modules
 .env
 .idea
-jest.config.js
-cypress.config.js
-cypress
-srt/services
-README.md
 dist
