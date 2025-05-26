@@ -97,7 +97,11 @@
     "lint:fix": "npm run lint -- --fix",
     "format": "prettier ./src --write",
     "test": "jest --verbose",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage",
     "cypress": "cypress open",
+    "cypress:run": "cypress run",
+    "cypress:headless": "cypress run --headless",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
