@@ -5,5 +5,4 @@ jest.config.js
 cypress.config.js
 cypress
 srt/services
-README.md
 dist
